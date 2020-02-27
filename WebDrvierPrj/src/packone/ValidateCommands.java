@@ -24,7 +24,7 @@ public class ValidateCommands {
 				System.out.println("pass");
 			else
 				System.out.println("fail");
-			
+				System.out.printl("sample fail");
 		
 		
 
